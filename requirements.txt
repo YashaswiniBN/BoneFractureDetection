@@ -1,0 +1,9 @@
+gdown
+onnx
+onnxruntime
+numpy
+Pillow
+streamlit
+matplotlib
+opencv-python-headless
+nvidia-pyindex
